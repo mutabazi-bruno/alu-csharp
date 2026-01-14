@@ -1,0 +1,15 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\1-new_project\bin\Debug\net10.0\1-new_project.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\1-new_project\bin\Debug\net10.0\1-new_project.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\1-new_project\bin\Debug\net10.0\1-new_project.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\1-new_project\bin\Debug\net10.0\1-new_project.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\1-new_project\bin\Debug\net10.0\1-new_project.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\1-new_project\obj\Debug\net10.0\1-new_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\1-new_project\obj\Debug\net10.0\1-new_project.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\1-new_project\obj\Debug\net10.0\1-new_project.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\1-new_project\obj\Debug\net10.0\1-new_project.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\1-new_project\obj\Debug\net10.0\1-new_project.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\1-new_project\obj\Debug\net10.0\1-new_project.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\1-new_project\obj\Debug\net10.0\refint\1-new_project.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\1-new_project\obj\Debug\net10.0\1-new_project.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\1-new_project\obj\Debug\net10.0\1-new_project.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\1-new_project\obj\Debug\net10.0\ref\1-new_project.dll
