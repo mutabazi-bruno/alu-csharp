@@ -1,0 +1,15 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\6-print_string\bin\Debug\net7.0\6-print_string.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\6-print_string\bin\Debug\net7.0\6-print_string.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\6-print_string\bin\Debug\net7.0\6-print_string.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\6-print_string\bin\Debug\net7.0\6-print_string.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\6-print_string\bin\Debug\net7.0\6-print_string.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\6-print_string.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\6-print_string.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\6-print_string.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\6-print_string.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\6-print_string.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\6-print_string.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\refint\6-print_string.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\6-print_string.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\6-print_string.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\ref\6-print_string.dll
