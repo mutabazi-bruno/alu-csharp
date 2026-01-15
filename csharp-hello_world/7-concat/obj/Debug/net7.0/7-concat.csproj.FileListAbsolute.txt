@@ -1,0 +1,15 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\7-concat\bin\Debug\net7.0\7-concat.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\7-concat\bin\Debug\net7.0\7-concat.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\7-concat\bin\Debug\net7.0\7-concat.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\7-concat\bin\Debug\net7.0\7-concat.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\7-concat\bin\Debug\net7.0\7-concat.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\7-concat\obj\Debug\net7.0\7-concat.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\7-concat\obj\Debug\net7.0\7-concat.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\7-concat\obj\Debug\net7.0\7-concat.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\7-concat\obj\Debug\net7.0\7-concat.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\7-concat\obj\Debug\net7.0\7-concat.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\7-concat\obj\Debug\net7.0\7-concat.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\7-concat\obj\Debug\net7.0\refint\7-concat.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\7-concat\obj\Debug\net7.0\7-concat.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\7-concat\obj\Debug\net7.0\7-concat.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\7-concat\obj\Debug\net7.0\ref\7-concat.dll
