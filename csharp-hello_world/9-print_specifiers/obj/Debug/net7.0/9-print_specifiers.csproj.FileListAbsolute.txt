@@ -1,0 +1,15 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\9-print_specifiers\bin\Debug\net7.0\9-print_specifiers.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\9-print_specifiers\bin\Debug\net7.0\9-print_specifiers.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\9-print_specifiers\bin\Debug\net7.0\9-print_specifiers.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\9-print_specifiers\bin\Debug\net7.0\9-print_specifiers.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\9-print_specifiers\bin\Debug\net7.0\9-print_specifiers.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\9-print_specifiers\obj\Debug\net7.0\9-print_specifiers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\9-print_specifiers\obj\Debug\net7.0\9-print_specifiers.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\9-print_specifiers\obj\Debug\net7.0\9-print_specifiers.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\9-print_specifiers\obj\Debug\net7.0\9-print_specifiers.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\9-print_specifiers\obj\Debug\net7.0\9-print_specifiers.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\9-print_specifiers\obj\Debug\net7.0\9-print_specifiers.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\9-print_specifiers\obj\Debug\net7.0\refint\9-print_specifiers.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\9-print_specifiers\obj\Debug\net7.0\9-print_specifiers.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\9-print_specifiers\obj\Debug\net7.0\9-print_specifiers.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hello_world\9-print_specifiers\obj\Debug\net7.0\ref\9-print_specifiers.dll
