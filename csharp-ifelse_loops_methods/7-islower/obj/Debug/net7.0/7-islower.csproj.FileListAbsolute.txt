@@ -1,0 +1,15 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\7-islower\bin\Debug\net7.0\7-islower.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\7-islower\bin\Debug\net7.0\7-islower.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\7-islower\bin\Debug\net7.0\7-islower.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\7-islower\bin\Debug\net7.0\7-islower.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\7-islower\bin\Debug\net7.0\7-islower.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\7-islower\obj\Debug\net7.0\7-islower.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\7-islower\obj\Debug\net7.0\7-islower.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\7-islower\obj\Debug\net7.0\7-islower.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\7-islower\obj\Debug\net7.0\7-islower.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\7-islower\obj\Debug\net7.0\7-islower.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\7-islower\obj\Debug\net7.0\7-islower.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\7-islower\obj\Debug\net7.0\refint\7-islower.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\7-islower\obj\Debug\net7.0\7-islower.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\7-islower\obj\Debug\net7.0\7-islower.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\7-islower\obj\Debug\net7.0\ref\7-islower.dll
