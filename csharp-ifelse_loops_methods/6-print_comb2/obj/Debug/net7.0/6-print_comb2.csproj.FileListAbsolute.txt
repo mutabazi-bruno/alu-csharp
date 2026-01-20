@@ -1,0 +1,15 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\6-print_comb2\bin\Debug\net7.0\6-print_comb2.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\6-print_comb2\bin\Debug\net7.0\6-print_comb2.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\6-print_comb2\bin\Debug\net7.0\6-print_comb2.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\6-print_comb2\bin\Debug\net7.0\6-print_comb2.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\6-print_comb2\bin\Debug\net7.0\6-print_comb2.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\6-print_comb2\obj\Debug\net7.0\6-print_comb2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\6-print_comb2\obj\Debug\net7.0\6-print_comb2.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\6-print_comb2\obj\Debug\net7.0\6-print_comb2.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\6-print_comb2\obj\Debug\net7.0\6-print_comb2.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\6-print_comb2\obj\Debug\net7.0\6-print_comb2.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\6-print_comb2\obj\Debug\net7.0\6-print_comb2.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\6-print_comb2\obj\Debug\net7.0\refint\6-print_comb2.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\6-print_comb2\obj\Debug\net7.0\6-print_comb2.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\6-print_comb2\obj\Debug\net7.0\6-print_comb2.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\6-print_comb2\obj\Debug\net7.0\ref\6-print_comb2.dll
