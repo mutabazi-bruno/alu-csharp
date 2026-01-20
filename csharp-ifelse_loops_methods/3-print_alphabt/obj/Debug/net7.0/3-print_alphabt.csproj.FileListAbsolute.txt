@@ -1,0 +1,15 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\bin\Debug\net7.0\3-print_alphabt.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\bin\Debug\net7.0\3-print_alphabt.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\bin\Debug\net7.0\3-print_alphabt.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\bin\Debug\net7.0\3-print_alphabt.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\bin\Debug\net7.0\3-print_alphabt.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\obj\Debug\net7.0\3-print_alphabt.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\obj\Debug\net7.0\3-print_alphabt.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\obj\Debug\net7.0\3-print_alphabt.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\obj\Debug\net7.0\3-print_alphabt.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\obj\Debug\net7.0\3-print_alphabt.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\obj\Debug\net7.0\3-print_alphabt.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\obj\Debug\net7.0\refint\3-print_alphabt.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\obj\Debug\net7.0\3-print_alphabt.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\obj\Debug\net7.0\3-print_alphabt.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\obj\Debug\net7.0\ref\3-print_alphabt.dll
