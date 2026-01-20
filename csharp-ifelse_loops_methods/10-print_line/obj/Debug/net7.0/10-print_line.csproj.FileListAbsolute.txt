@@ -1,0 +1,15 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\10-print_line\bin\Debug\net7.0\10-print_line.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\10-print_line\bin\Debug\net7.0\10-print_line.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\10-print_line\bin\Debug\net7.0\10-print_line.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\10-print_line\bin\Debug\net7.0\10-print_line.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\10-print_line\bin\Debug\net7.0\10-print_line.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\10-print_line\obj\Debug\net7.0\10-print_line.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\10-print_line\obj\Debug\net7.0\10-print_line.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\10-print_line\obj\Debug\net7.0\10-print_line.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\10-print_line\obj\Debug\net7.0\10-print_line.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\10-print_line\obj\Debug\net7.0\10-print_line.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\10-print_line\obj\Debug\net7.0\10-print_line.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\10-print_line\obj\Debug\net7.0\refint\10-print_line.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\10-print_line\obj\Debug\net7.0\10-print_line.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\10-print_line\obj\Debug\net7.0\10-print_line.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-ifelse_loops_methods\10-print_line\obj\Debug\net7.0\ref\10-print_line.dll
