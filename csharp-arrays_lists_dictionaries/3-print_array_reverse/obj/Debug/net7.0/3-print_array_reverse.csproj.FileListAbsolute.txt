@@ -1,0 +1,15 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\bin\Debug\net7.0\3-print_array_reverse.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\bin\Debug\net7.0\3-print_array_reverse.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\bin\Debug\net7.0\3-print_array_reverse.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\bin\Debug\net7.0\3-print_array_reverse.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\bin\Debug\net7.0\3-print_array_reverse.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\obj\Debug\net7.0\3-print_array_reverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\obj\Debug\net7.0\3-print_array_reverse.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\obj\Debug\net7.0\3-print_array_reverse.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\obj\Debug\net7.0\3-print_array_reverse.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\obj\Debug\net7.0\3-print_array_reverse.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\obj\Debug\net7.0\3-print_array_reverse.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\obj\Debug\net7.0\refint\3-print_array_reverse.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\obj\Debug\net7.0\3-print_array_reverse.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\obj\Debug\net7.0\3-print_array_reverse.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\obj\Debug\net7.0\ref\3-print_array_reverse.dll
