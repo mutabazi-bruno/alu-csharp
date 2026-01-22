@@ -1,0 +1,15 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net7.0\1-element_at.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net7.0\1-element_at.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net7.0\1-element_at.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net7.0\1-element_at.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net7.0\1-element_at.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\bin\Debug\net7.0\1-element_at.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\bin\Debug\net7.0\1-element_at.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\bin\Debug\net7.0\1-element_at.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\bin\Debug\net7.0\1-element_at.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\bin\Debug\net7.0\1-element_at.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net7.0\1-element_at.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net7.0\refint\1-element_at.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net7.0\1-element_at.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net7.0\1-element_at.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net7.0\ref\1-element_at.dll
