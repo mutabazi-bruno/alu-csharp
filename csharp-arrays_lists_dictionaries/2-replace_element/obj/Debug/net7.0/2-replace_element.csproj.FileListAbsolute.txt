@@ -1,0 +1,15 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\2-replace_element\bin\Debug\net7.0\2-replace_element.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\2-replace_element\bin\Debug\net7.0\2-replace_element.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\2-replace_element\bin\Debug\net7.0\2-replace_element.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\2-replace_element\bin\Debug\net7.0\2-replace_element.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\2-replace_element\bin\Debug\net7.0\2-replace_element.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net7.0\2-replace_element.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net7.0\2-replace_element.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net7.0\2-replace_element.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net7.0\2-replace_element.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net7.0\2-replace_element.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net7.0\2-replace_element.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net7.0\refint\2-replace_element.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net7.0\2-replace_element.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net7.0\2-replace_element.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net7.0\ref\2-replace_element.dll
