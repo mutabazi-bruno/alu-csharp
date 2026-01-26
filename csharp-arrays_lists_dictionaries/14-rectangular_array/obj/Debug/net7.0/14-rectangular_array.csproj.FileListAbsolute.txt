@@ -1,0 +1,15 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\bin\Debug\net7.0\14-rectangular_array.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\bin\Debug\net7.0\14-rectangular_array.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\bin\Debug\net7.0\14-rectangular_array.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\bin\Debug\net7.0\14-rectangular_array.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\bin\Debug\net7.0\14-rectangular_array.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\refint\14-rectangular_array.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\ref\14-rectangular_array.dll
