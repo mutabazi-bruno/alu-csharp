@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3-print_array_reverse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+721b9170421eb1647a1874d5d0a2d9e1c876c157")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f9b27f0c9882816a4ed988d1567a89018de08f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("3-print_array_reverse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3-print_array_reverse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
