@@ -1,0 +1,15 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\bin\Debug\net7.0\8-number_keys.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\bin\Debug\net7.0\8-number_keys.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\bin\Debug\net7.0\8-number_keys.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\bin\Debug\net7.0\8-number_keys.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\bin\Debug\net7.0\8-number_keys.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\8-number_keys.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\8-number_keys.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\8-number_keys.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\8-number_keys.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\8-number_keys.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\8-number_keys.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\refint\8-number_keys.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\8-number_keys.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\8-number_keys.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\ref\8-number_keys.dll
