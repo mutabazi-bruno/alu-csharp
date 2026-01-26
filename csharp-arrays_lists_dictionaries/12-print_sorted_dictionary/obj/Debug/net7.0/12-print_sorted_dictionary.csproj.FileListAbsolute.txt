@@ -1,0 +1,15 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\bin\Debug\net7.0\12-print_sorted_dictionary.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\bin\Debug\net7.0\12-print_sorted_dictionary.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\bin\Debug\net7.0\12-print_sorted_dictionary.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\bin\Debug\net7.0\12-print_sorted_dictionary.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\bin\Debug\net7.0\12-print_sorted_dictionary.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\12-print_sorted_dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\12-print_sorted_dictionary.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\12-print_sorted_dictionary.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\12-print_sorted_dictionary.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\12-print_sorted_dictionary.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\12-print_sorted_dictionary.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\refint\12-print_sorted_dictionary.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\12-print_sorted_dictionary.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\12-print_sorted_dictionary.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\ref\12-print_sorted_dictionary.dll
