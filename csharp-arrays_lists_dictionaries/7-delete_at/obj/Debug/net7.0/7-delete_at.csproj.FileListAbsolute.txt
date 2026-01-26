@@ -1,0 +1,15 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\7-delete_at\bin\Debug\net7.0\7-delete_at.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\7-delete_at\bin\Debug\net7.0\7-delete_at.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\7-delete_at\bin\Debug\net7.0\7-delete_at.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\7-delete_at\bin\Debug\net7.0\7-delete_at.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\7-delete_at\bin\Debug\net7.0\7-delete_at.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\7-delete_at\obj\Debug\net7.0\7-delete_at.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\7-delete_at\obj\Debug\net7.0\7-delete_at.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\7-delete_at\obj\Debug\net7.0\7-delete_at.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\7-delete_at\obj\Debug\net7.0\7-delete_at.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\7-delete_at\obj\Debug\net7.0\7-delete_at.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\7-delete_at\obj\Debug\net7.0\7-delete_at.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\7-delete_at\obj\Debug\net7.0\refint\7-delete_at.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\7-delete_at\obj\Debug\net7.0\7-delete_at.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\7-delete_at\obj\Debug\net7.0\7-delete_at.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-arrays_lists_dictionaries\7-delete_at\obj\Debug\net7.0\ref\7-delete_at.dll
