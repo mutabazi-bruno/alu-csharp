@@ -20,15 +20,9 @@ class Program
 
         Console.WriteLine("------");
 
-        Console.WriteLine(MyStack.Info(aStack));
-
-        Console.WriteLine("Stack contains \"Javascript\": " + aStack.Contains("Javascript"));
+        MyStack.Info(aStack, "C#", "Javascript");
 
         Console.WriteLine("------");
-
-        for (int i = 0; i < 4; i++)
-            aStack.Pop();
-        aStack.Push("C#");
 
         foreach (string item in aStack)
             Console.WriteLine(item);

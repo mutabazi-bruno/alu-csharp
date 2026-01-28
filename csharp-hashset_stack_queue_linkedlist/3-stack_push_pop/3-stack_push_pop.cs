@@ -1,25 +1,54 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 
-/// <summary>
-/// MyStack class
-/// </summary>
-class MyStack
+public class MyStack
 {
-    /// <summary>
-    /// Returns information about a stack
-    /// </summary>
-    /// <param name="aStack">The stack to get info from</param>
-    /// <returns>Info string about the stack</returns>
-    public static string Info(Stack<string> aStack)
+    public static Stack<string> Info(Stack<string> aStack, string newItem, string search)
     {
-        if (aStack.Count == 0)
-        {
-            return "0";
-        }
+        if (aStack == null)
+            aStack = new Stack<string>();
+
+        // Number of items
+        Console.WriteLine($"Number of items: {aStack.Count}");
+
+        // Top item
+        if (aStack.Count > 0)
+            Console.WriteLine($"Top item: {aStack.Peek()}");
         else
+            Console.WriteLine("Stack is empty");
+
+        // Check if contains search item
+        bool containsSearch = aStack.Contains(search);
+        Console.WriteLine($"Stack contains \"{search}\": {containsSearch}");
+
+        // Remove items up to and including search without using Pop in a loop
+        if (containsSearch)
         {
-            return $"Number of items: {aStack.Count}\nTop item: {aStack.Peek()}";
+            // Enumerate items from top to bottom without mutating the original stack
+            List<string> itemsTopToBottom = new List<string>(aStack);
+            int idx = itemsTopToBottom.IndexOf(search);
+
+            // Keep only items that are below the searched element
+            List<string> keep = new List<string>();
+            if (idx >= 0)
+            {
+                for (int i = idx + 1; i < itemsTopToBottom.Count; i++)
+                    keep.Add(itemsTopToBottom[i]);
+            }
+            else
+            {
+                keep = itemsTopToBottom;
+            }
+
+            // Rebuild the original stack with the kept items
+            aStack.Clear();
+            for (int i = keep.Count - 1; i >= 0; i--)
+                aStack.Push(keep[i]);
         }
+
+        // Add new item
+        aStack.Push(newItem);
+
+        return aStack;
     }
 }
