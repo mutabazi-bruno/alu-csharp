@@ -15,7 +15,7 @@ class MyStack
     {
         if (aStack.Count == 0)
         {
-            return "Stack is empty";
+            return "0";
         }
         else
         {
