@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C-PROGAMING\\INTRANET WORK\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\0-unique_add\\0-unique_add.csproj": {}
+    "D:\\C-PROGAMING\\INTRANET WORK\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\1-common_elements\\1-common_elements.csproj": {}
   },
   "projects": {
-    "D:\\C-PROGAMING\\INTRANET WORK\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\0-unique_add\\0-unique_add.csproj": {
+    "D:\\C-PROGAMING\\INTRANET WORK\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\1-common_elements\\1-common_elements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C-PROGAMING\\INTRANET WORK\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\0-unique_add\\0-unique_add.csproj",
-        "projectName": "0-unique_add",
-        "projectPath": "D:\\C-PROGAMING\\INTRANET WORK\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\0-unique_add\\0-unique_add.csproj",
+        "projectUniqueName": "D:\\C-PROGAMING\\INTRANET WORK\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\1-common_elements\\1-common_elements.csproj",
+        "projectName": "1-common_elements",
+        "projectPath": "D:\\C-PROGAMING\\INTRANET WORK\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\1-common_elements\\1-common_elements.csproj",
         "packagesPath": "C:\\Users\\UMWAMI\\.nuget\\packages\\",
-        "outputPath": "D:\\C-PROGAMING\\INTRANET WORK\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\0-unique_add\\obj\\",
+        "outputPath": "D:\\C-PROGAMING\\INTRANET WORK\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\1-common_elements\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\UMWAMI\\AppData\\Roaming\\NuGet\\NuGet.Config",
