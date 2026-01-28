@@ -26,10 +26,8 @@ class Program
 
         Console.WriteLine("------");
 
-        aStack.Pop();
-        aStack.Pop();
-        aStack.Pop();
-        aStack.Pop();
+        for (int i = 0; i < 4; i++)
+            aStack.Pop();
         aStack.Push("C#");
 
         foreach (string item in aStack)
