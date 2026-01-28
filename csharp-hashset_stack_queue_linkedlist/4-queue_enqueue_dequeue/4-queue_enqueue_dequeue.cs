@@ -1,66 +1,53 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 
-/// <summary>
-/// MyQueue class with queue operations
-/// </summary>
-class MyQueue
+public class MyQueue
 {
-    /// <summary>
-    /// Prints queue info, adds new item, and removes items up to search term
-    /// </summary>
-    /// <param name="aQueue">The queue to process</param>
-    /// <param name="newItem">Item to add to the queue</param>
-    /// <param name="search">Item to search for</param>
-    /// <returns>Modified queue</returns>
     public static Queue<string> Info(Queue<string> aQueue, string newItem, string search)
     {
-        // Print number of items
+        if (aQueue == null)
+            aQueue = new Queue<string>();
+
+        // Number of items
         Console.WriteLine($"Number of items: {aQueue.Count}");
 
-        // Print first item or "Queue is empty"
-        if (aQueue.Count == 0)
-        {
-            Console.WriteLine("Queue is empty");
-        }
-        else
-        {
+        // First item
+        if (aQueue.Count > 0)
             Console.WriteLine($"First item: {aQueue.Peek()}");
-        }
+        else
+            Console.WriteLine("Queue is empty");
 
-        // Add new item to queue
-        aQueue.Enqueue(newItem);
-
-        // Check if queue contains search item
+        // Check if contains search item
         bool containsSearch = aQueue.Contains(search);
         Console.WriteLine($"Queue contains \"{search}\": {containsSearch}");
 
-        // If contains search, remove all items up to and including search
+        // Remove items up to and including search without using Dequeue in a loop
         if (containsSearch)
         {
-            // Convert queue to array to process
-            string[] items = aQueue.ToArray();
-            
-            // Clear the queue
+            // Enumerate items from front to back
+            List<string> itemsFrontToBack = new List<string>(aQueue);
+            int idx = itemsFrontToBack.IndexOf(search);
+
+            // Keep items after the found index
+            List<string> keep = new List<string>();
+            if (idx >= 0)
+            {
+                for (int i = idx + 1; i < itemsFrontToBack.Count; i++)
+                    keep.Add(itemsFrontToBack[i]);
+            }
+            else
+            {
+                keep = itemsFrontToBack;
+            }
+
+            // Rebuild the original queue with kept items
             aQueue.Clear();
-            
-            // Find the index of search item
-            int searchIndex = -1;
-            for (int i = 0; i < items.Length; i++)
-            {
-                if (items[i] == search)
-                {
-                    searchIndex = i;
-                    break;
-                }
-            }
-            
-            // Re-enqueue items after the search item
-            for (int i = searchIndex + 1; i < items.Length; i++)
-            {
-                aQueue.Enqueue(items[i]);
-            }
+            for (int i = 0; i < keep.Count; i++)
+                aQueue.Enqueue(keep[i]);
         }
+
+        // Add new item
+        aQueue.Enqueue(newItem);
 
         return aQueue;
     }
