@@ -3,14 +3,11 @@ using System;
 namespace Enemies
 {
     /// <summary>
-    /// Defines a zombie with a private health field and name.
+    /// Defines a zombie with name, health, and string representation.
     /// </summary>
     public class Zombie
     {
-        /// <summary>Health of the zombie.</summary>
         private int health;
-
-        /// <summary>Name of the zombie.</summary>
         private string name = "(No name)";
 
         /// <summary>Initializes a new Zombie with 0 health.</summary>
@@ -19,42 +16,30 @@ namespace Enemies
             health = 0;
         }
 
-        /// <summary>
-        /// Initializes a new Zombie with specified health.
-        /// </summary>
-        /// <param name="value">The health value.</param>
-        /// <exception cref="ArgumentException">Thrown when value is less than 0.</exception>
+        /// <summary>Initializes a new Zombie with the specified health.</summary>
+        /// <param name="value">Health value (must be >= 0).</param>
+        /// <exception cref="ArgumentException">Thrown when value is negative.</exception>
         public Zombie(int value)
         {
             if (value < 0)
-            {
                 throw new ArgumentException("Health must be greater than or equal to 0");
-            }
             health = value;
         }
 
-        /// <summary>
-        /// Gets or sets the name of the Zombie.
-        /// </summary>
+        /// <summary>Gets or sets the zombie's name.</summary>
         public string Name
         {
             get { return name; }
             set { name = value; }
         }
 
-        /// <summary>
-        /// Gets the health of the Zombie.
-        /// </summary>
-        /// <returns>The health value.</returns>
+        /// <summary>Returns the current health.</summary>
         public int GetHealth()
         {
             return health;
         }
 
-        /// <summary>
-        /// Returns a string representation of the Zombie.
-        /// </summary>
-        /// <returns>A string containing the zombie's name and health.</returns>
+        /// <summary>Returns a formatted string describing the zombie.</summary>
         public override string ToString()
         {
             return $"Zombie Name: {name} / Total Health: {health}";

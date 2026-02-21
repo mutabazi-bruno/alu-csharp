@@ -4,7 +4,8 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <RootNamespace>_4_enemy</RootNamespace>
-    <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\4-enemy.xml</DocumentationFile>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <DocumentationFile>bin\Debug\netcoreapp2.1\4-enemy.xml</DocumentationFile>
   </PropertyGroup>
 
 </Project>
