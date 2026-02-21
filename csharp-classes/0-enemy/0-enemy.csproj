@@ -5,8 +5,8 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <RootNamespace>_0_enemy</RootNamespace>
     <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\0-enemy.xml</DocumentationFile>
-    <CheckEolTargetFramework>false</CheckEolTargetFramework>
-    <NoWarn>NU1903,NU1902,NETSDK1138</NoWarn>
+    <NoWarn>$(NoWarn);NU1903;NU1902;NETSDK1138</NoWarn>
+    <MSBuildWarningsAsMessages>$(MSBuildWarningsAsMessages);NETSDK1138</MSBuildWarningsAsMessages>
   </PropertyGroup>
 
 </Project>
