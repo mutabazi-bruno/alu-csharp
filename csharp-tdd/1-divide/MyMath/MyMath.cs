@@ -2,8 +2,14 @@ using System;
 
 namespace MyMath
 {
+    /// <summary>
+    /// Matrix class
+    /// </summary>
     public class Matrix
     {
+        /// <summary>
+        /// Divides all elements of a matrix by a number
+        /// </summary>
         public static int[,] Divide(int[,] matrix, int num)
         {
             if (matrix == null)
