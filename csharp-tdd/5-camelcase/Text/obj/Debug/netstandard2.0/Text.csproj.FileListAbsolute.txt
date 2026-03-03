@@ -1,0 +1,11 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-tdd\5-camelcase\Text\bin\Debug\netstandard2.0\Text.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-tdd\5-camelcase\Text\bin\Debug\netstandard2.0\Text.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-tdd\5-camelcase\Text\bin\Debug\netstandard2.0\Text.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-tdd\5-camelcase\Text\obj\Debug\netstandard2.0\Text.csproj.AssemblyReference.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-tdd\5-camelcase\Text\obj\Debug\netstandard2.0\Text.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-tdd\5-camelcase\Text\obj\Debug\netstandard2.0\Text.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-tdd\5-camelcase\Text\obj\Debug\netstandard2.0\Text.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-tdd\5-camelcase\Text\obj\Debug\netstandard2.0\Text.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-tdd\5-camelcase\Text\obj\Debug\netstandard2.0\Text.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-tdd\5-camelcase\Text\obj\Debug\netstandard2.0\Text.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-tdd\5-camelcase\Text\obj\Debug\netstandard2.0\Text.pdb
