@@ -1,0 +1,17 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\2-subclass\bin\Debug\net7.0\2-subclass.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\2-subclass\bin\Debug\net7.0\2-subclass.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\2-subclass\bin\Debug\net7.0\2-subclass.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\2-subclass\bin\Debug\net7.0\2-subclass.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\2-subclass\bin\Debug\net7.0\2-subclass.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\2-subclass\bin\Debug\net7.0\2-subclass.xml
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\2-subclass\obj\Debug\net7.0\2-subclass.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\2-subclass\obj\Debug\net7.0\2-subclass.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\2-subclass\obj\Debug\net7.0\2-subclass.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\2-subclass\obj\Debug\net7.0\2-subclass.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\2-subclass\obj\Debug\net7.0\2-subclass.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\2-subclass\obj\Debug\net7.0\2-subclass.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\2-subclass\obj\Debug\net7.0\refint\2-subclass.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\2-subclass\obj\Debug\net7.0\2-subclass.xml
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\2-subclass\obj\Debug\net7.0\2-subclass.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\2-subclass\obj\Debug\net7.0\2-subclass.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\2-subclass\obj\Debug\net7.0\ref\2-subclass.dll

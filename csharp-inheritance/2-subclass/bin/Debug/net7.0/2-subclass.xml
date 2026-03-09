@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>2-subclass</name>
+    </assembly>
+    <members>
+        <member name="T:Program">
+            <summary>Program class</summary>
+        </member>
+        <member name="M:Program.Main(System.String[])">
+            <summary>Main method</summary>
+            <param name="args">Arguments</param>
+        </member>
+        <member name="T:Animal">
+            <summary>Animal class</summary>
+        </member>
+        <member name="T:Dog">
+            <summary>Dog class</summary>
+        </member>
+        <member name="T:Cat">
+            <summary>Cat class</summary>
+        </member>
+        <member name="T:Obj">
+            <summary>Obj class</summary>
+        </member>
+        <member name="M:Obj.IsOnlyASubclass(System.Type,System.Type)">
+            <summary>Checks if derivedType is a subclass of baseType</summary>
+            <param name="derivedType">The derived type to check</param>
+            <param name="baseType">The base type to check against</param>
+            <returns>True if derivedType is a subclass of baseType</returns>
+        </member>
+    </members>
+</doc>
