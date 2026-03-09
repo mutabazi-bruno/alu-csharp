@@ -1,0 +1,17 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\3-type_get\bin\Debug\net7.0\3-type_get.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\3-type_get\bin\Debug\net7.0\3-type_get.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\3-type_get\bin\Debug\net7.0\3-type_get.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\3-type_get\bin\Debug\net7.0\3-type_get.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\3-type_get\bin\Debug\net7.0\3-type_get.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\3-type_get\bin\Debug\net7.0\3-type_get.xml
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\3-type_get.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\3-type_get.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\3-type_get.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\3-type_get.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\3-type_get.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\3-type_get.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\refint\3-type_get.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\3-type_get.xml
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\3-type_get.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\3-type_get.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\ref\3-type_get.dll

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>3-type_get</name>
+    </assembly>
+    <members>
+        <member name="T:Program">
+            <summary>Program class</summary>
+        </member>
+        <member name="M:Program.Main(System.String[])">
+            <summary>Main method</summary>
+            <param name="args">Arguments</param>
+        </member>
+        <member name="T:Obj">
+            <summary>Obj class</summary>
+        </member>
+        <member name="M:Obj.Print(System.Object)">
+            <summary>Prints properties and methods of an object</summary>
+            <param name="myObj">The object to inspect</param>
+        </member>
+    </members>
+</doc>
