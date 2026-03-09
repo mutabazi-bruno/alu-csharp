@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>4-inherit</name>
+    </assembly>
+    <members>
+        <member name="T:Animal">
+            <summary>Animal class</summary>
+        </member>
+        <member name="T:Dog">
+            <summary>Dog class that inherits from Animal</summary>
+        </member>
+        <member name="T:Program">
+            <summary>Program class</summary>
+        </member>
+        <member name="M:Program.Main(System.String[])">
+            <summary>Main method</summary>
+            <param name="args">Arguments</param>
+        </member>
+    </members>
+</doc>

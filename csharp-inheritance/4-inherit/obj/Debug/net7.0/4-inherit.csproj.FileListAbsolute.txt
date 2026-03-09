@@ -1,0 +1,17 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\4-inherit\bin\Debug\net7.0\4-inherit.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\4-inherit\bin\Debug\net7.0\4-inherit.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\4-inherit\bin\Debug\net7.0\4-inherit.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\4-inherit\bin\Debug\net7.0\4-inherit.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\4-inherit\bin\Debug\net7.0\4-inherit.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\4-inherit\bin\Debug\net7.0\4-inherit.xml
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\4-inherit.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\4-inherit.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\4-inherit.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\4-inherit.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\4-inherit.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\4-inherit.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\refint\4-inherit.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\4-inherit.xml
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\4-inherit.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\4-inherit.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\ref\4-inherit.dll
