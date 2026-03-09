@@ -1,0 +1,17 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\9-shape\bin\Debug\net7.0\9-shape.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\9-shape\bin\Debug\net7.0\9-shape.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\9-shape\bin\Debug\net7.0\9-shape.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\9-shape\bin\Debug\net7.0\9-shape.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\9-shape\bin\Debug\net7.0\9-shape.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\9-shape\bin\Debug\net7.0\9-shape.xml
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\9-shape\obj\Debug\net7.0\9-shape.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\9-shape\obj\Debug\net7.0\9-shape.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\9-shape\obj\Debug\net7.0\9-shape.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\9-shape\obj\Debug\net7.0\9-shape.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\9-shape\obj\Debug\net7.0\9-shape.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\9-shape\obj\Debug\net7.0\9-shape.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\9-shape\obj\Debug\net7.0\refint\9-shape.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\9-shape\obj\Debug\net7.0\9-shape.xml
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\9-shape\obj\Debug\net7.0\9-shape.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\9-shape\obj\Debug\net7.0\9-shape.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\9-shape\obj\Debug\net7.0\ref\9-shape.dll
