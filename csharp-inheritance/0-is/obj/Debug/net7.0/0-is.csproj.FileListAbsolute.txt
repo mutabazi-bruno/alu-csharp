@@ -13,3 +13,5 @@ D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\0-is\obj\Debug\net7.0
 D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\0-is\obj\Debug\net7.0\0-is.pdb
 D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\0-is\obj\Debug\net7.0\0-is.genruntimeconfig.cache
 D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\0-is\obj\Debug\net7.0\ref\0-is.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\0-is\bin\Debug\net7.0\0-is.xml
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\0-is\obj\Debug\net7.0\0-is.xml
