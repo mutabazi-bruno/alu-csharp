@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>8-shape</name>
+    </assembly>
+    <members>
+        <member name="T:Program">
+            <summary>Program class</summary>
+        </member>
+        <member name="M:Program.Main(System.String[])">
+            <summary>Main method</summary>
+            <param name="args">Arguments</param>
+        </member>
+        <member name="T:Shape">
+            <summary>Shape class</summary>
+        </member>
+        <member name="M:Shape.Area">
+            <summary>Calculates the area</summary>
+            <returns>The area</returns>
+        </member>
+        <member name="T:Rectangle">
+            <summary>Rectangle class that inherits from Shape</summary>
+        </member>
+        <member name="P:Rectangle.Width">
+            <summary>Gets or sets the width</summary>
+        </member>
+        <member name="P:Rectangle.Height">
+            <summary>Gets or sets the height</summary>
+        </member>
+        <member name="M:Rectangle.Area">
+            <summary>Calculates the area of the rectangle</summary>
+            <returns>The area</returns>
+        </member>
+        <member name="M:Rectangle.ToString">
+            <summary>Returns string representation of the rectangle</summary>
+            <returns>String representation</returns>
+        </member>
+        <member name="T:Square">
+            <summary>Square class that inherits from Rectangle</summary>
+        </member>
+        <member name="P:Square.Size">
+            <summary>Gets or sets the size</summary>
+        </member>
+    </members>
+</doc>
