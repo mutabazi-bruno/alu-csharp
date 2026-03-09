@@ -1,0 +1,17 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\7-shape\bin\Debug\net7.0\7-shape.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\7-shape\bin\Debug\net7.0\7-shape.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\7-shape\bin\Debug\net7.0\7-shape.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\7-shape\bin\Debug\net7.0\7-shape.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\7-shape\bin\Debug\net7.0\7-shape.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\7-shape\bin\Debug\net7.0\7-shape.xml
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\refint\7-shape.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.xml
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\ref\7-shape.dll
