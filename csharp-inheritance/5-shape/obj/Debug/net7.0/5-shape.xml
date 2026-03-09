@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>5-shape</name>
+    </assembly>
+    <members>
+        <member name="T:Program">
+            <summary>Program class</summary>
+        </member>
+        <member name="M:Program.Main(System.String[])">
+            <summary>Main method</summary>
+            <param name="args">Arguments</param>
+        </member>
+        <member name="T:Shape">
+            <summary>Shape class</summary>
+        </member>
+        <member name="M:Shape.Area">
+            <summary>Calculates the area</summary>
+            <returns>The area</returns>
+        </member>
+    </members>
+</doc>
