@@ -5,6 +5,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <RootNamespace>_0_is</RootNamespace>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>CS1591</NoWarn>
   </PropertyGroup>
 
 </Project>

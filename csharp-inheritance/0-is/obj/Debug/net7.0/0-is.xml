@@ -12,5 +12,12 @@
             <param name="obj">The object to check</param>
             <returns>True if obj is an int</returns>
         </member>
+        <member name="T:Program">
+            <summary>Program class</summary>
+        </member>
+        <member name="M:Program.Main(System.String[])">
+            <summary>Main method</summary>
+            <param name="args">Arguments</param>
+        </member>
     </members>
 </doc>
