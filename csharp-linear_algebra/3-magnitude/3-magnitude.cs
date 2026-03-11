@@ -4,14 +4,14 @@ public class VectorMath
 {
     /// <summary>
     /// Calculates and returns the length of a given vector.
-    /// The vector can be 2D or 3D. If not, returns -1.
     /// The return value is rounded to the nearest hundredth.
+    /// Returns -1 if the vector is null or empty.
     /// </summary>
     /// <param name="vector">Array representing the vector.</param>
     /// <returns>Length of the vector or -1 if invalid.</returns>
     public static double Magnitude(double[] vector)
     {
-        if (vector == null || (vector.Length != 2 && vector.Length != 3))
+        if (vector == null || vector.Length == 0)
             return -1;
 
         double sumSquares = 0;
@@ -20,7 +20,6 @@ public class VectorMath
             sumSquares += component * component;
         }
 
-        double length = Math.Sqrt(sumSquares);
-        return Math.Round(length, 2);
+        return Math.Round(Math.Sqrt(sumSquares), 2);
     }
 }
