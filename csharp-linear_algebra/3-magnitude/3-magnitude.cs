@@ -20,6 +20,6 @@ public class VectorMath
             sumSquares += component * component;
         }
 
-        return Math.Round(Math.Sqrt(sumSquares), 2);
+        return Math.Round(Math.Sqrt(sumSquares), 2, MidpointRounding.AwayFromZero);
     }
 }
