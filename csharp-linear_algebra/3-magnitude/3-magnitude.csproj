@@ -1,9 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <OutputType>Library</OutputType>
-    <TargetFramework>net6.0</TargetFramework>
-    <DocumentationFile>bin/Debug/net6.0/3-magnitude.xml</DocumentationFile>
-  </PropertyGroup>
-
-</Project>
