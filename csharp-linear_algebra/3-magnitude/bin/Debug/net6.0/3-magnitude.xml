@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>3-magnitude</name>
+    </assembly>
+    <members>
+        <member name="M:VectorMath.Magnitude(System.Double[])">
+            <summary>
+            Calculates and returns the length of a given vector.
+            The return value is rounded to the nearest hundredth.
+            Returns -1 if the vector is not a 2D or 3D vector.
+            </summary>
+            <param name="vector">Array representing the vector.</param>
+            <returns>Length of the vector or -1 if invalid.</returns>
+        </member>
+    </members>
+</doc>
