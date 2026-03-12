@@ -1,5 +1,16 @@
+﻿using System;
+
 public class MatrixMath
 {
+    /// <summary>
+    /// Adds two matrices and returns the resulting matrix.
+    /// </summary>
+    /// <param name="matrix1">The first matrix (2x2 or 3x3).</param>
+    /// <param name="matrix2">The second matrix (2x2 or 3x3).</param>
+    /// <returns>
+    /// The resulting matrix after addition.
+    /// If any matrix is not 2x2 or 3x3, or if both matrices are not the same size, returns a matrix containing -1.
+    /// </returns>
     public static double[,] Add(double[,] matrix1, double[,] matrix2)
     {
         if (matrix1 == null || matrix2 == null)

@@ -1,5 +1,16 @@
+﻿using System;
+
 public class MatrixMath
 {
+    /// <summary>
+    /// Multiplies a matrix by a scalar and returns the resulting matrix.
+    /// </summary>
+    /// <param name="matrix">The matrix to multiply (2x2 or 3x3).</param>
+    /// <param name="scalar">The scalar value to multiply the matrix by.</param>
+    /// <returns>
+    /// The resulting matrix after scalar multiplication.
+    /// If the matrix is not 2x2 or 3x3, returns a matrix containing -1.
+    /// </returns>
     public static double[,] MultiplyScalar(double[,] matrix, double scalar)
     {
         if (matrix == null)

@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 
 public class MatrixMath
 {
@@ -28,10 +28,10 @@ public class MatrixMath
         double invDet = 1.0 / det;
 
         double[,] inverse = new double[2, 2];
-        inverse[0, 0] = Math.Round(d * invDet, 2);
-        inverse[0, 1] = Math.Round(-b * invDet, 2);
-        inverse[1, 0] = Math.Round(-c * invDet, 2);
-        inverse[1, 1] = Math.Round(a * invDet, 2);
+        inverse[0, 0] =  d * invDet;
+        inverse[0, 1] = -b * invDet;
+        inverse[1, 0] = -c * invDet;
+        inverse[1, 1] =  a * invDet;
 
         return inverse;
     }

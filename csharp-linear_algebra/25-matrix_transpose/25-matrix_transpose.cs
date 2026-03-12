@@ -1,5 +1,15 @@
+﻿using System;
+
 public class MatrixMath
 {
+    /// <summary>
+    /// Transposes a given matrix and returns the resulting matrix.
+    /// </summary>
+    /// <param name="matrix">The matrix to transpose.</param>
+    /// <returns>
+    /// The transposed matrix.
+    /// If the input matrix is empty, returns an empty matrix.
+    /// </returns>
     public static double[,] Transpose(double[,] matrix)
     {
         if (matrix == null || matrix.Length == 0)
