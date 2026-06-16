@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>1-enqueued</name>
+    </assembly>
+    <members>
+        <member name="T:Node`1">
+            <summary>
+            A generic Node class for use in a Queue data structure.
+            </summary>
+            <typeparam name="T">The type of value stored in the node.</typeparam>
+        </member>
+        <member name="P:Node`1.value">
+            <summary>
+            The value stored in the node.
+            </summary>
+        </member>
+        <member name="P:Node`1.next">
+            <summary>
+            Reference to the next node in the queue.
+            </summary>
+        </member>
+        <member name="M:Node`1.#ctor(`0)">
+            <summary>
+            Initializes a new instance of the Node class with the specified value.
+            </summary>
+            <param name="value">The value to store in the node.</param>
+        </member>
+        <member name="T:Queue`1">
+            <summary>
+            A generic Queue class that stores nodes and provides enqueue and count operations.
+            </summary>
+            <typeparam name="T">The type of elements stored in the queue.</typeparam>
+        </member>
+        <member name="P:Queue`1.head">
+            <summary>
+            Reference to the head (first) node in the queue.
+            </summary>
+        </member>
+        <member name="P:Queue`1.tail">
+            <summary>
+            Reference to the tail (last) node in the queue.
+            </summary>
+        </member>
+        <member name="P:Queue`1.count">
+            <summary>
+            The number of nodes currently in the queue.
+            </summary>
+        </member>
+        <member name="M:Queue`1.#ctor">
+            <summary>
+            Initializes a new instance of the Queue class.
+            </summary>
+        </member>
+        <member name="M:Queue`1.CheckType">
+            <summary>
+            Gets the name of the type T.
+            </summary>
+            <returns>The full type name as a string.</returns>
+        </member>
+        <member name="M:Queue`1.Enqueued(`0)">
+            <summary>
+            Adds a new node with the specified value to the end of the queue.
+            </summary>
+            <param name="value">The value to enqueue.</param>
+        </member>
+        <member name="M:Queue`1.Count">
+            <summary>
+            Returns the number of nodes currently in the queue.
+            </summary>
+            <returns>The count of nodes in the queue.</returns>
+        </member>
+    </members>
+</doc>

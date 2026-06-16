@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Cloning\\alu-csharp\\csharp-generics\\0-queue\\0-queue.csproj": {}
+    "d:\\Cloning\\alu-csharp\\csharp-generics\\1-enqueued\\1-enqueued.csproj": {}
   },
   "projects": {
-    "d:\\Cloning\\alu-csharp\\csharp-generics\\0-queue\\0-queue.csproj": {
+    "d:\\Cloning\\alu-csharp\\csharp-generics\\1-enqueued\\1-enqueued.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Cloning\\alu-csharp\\csharp-generics\\0-queue\\0-queue.csproj",
-        "projectName": "0-queue",
-        "projectPath": "d:\\Cloning\\alu-csharp\\csharp-generics\\0-queue\\0-queue.csproj",
+        "projectUniqueName": "d:\\Cloning\\alu-csharp\\csharp-generics\\1-enqueued\\1-enqueued.csproj",
+        "projectName": "1-enqueued",
+        "projectPath": "d:\\Cloning\\alu-csharp\\csharp-generics\\1-enqueued\\1-enqueued.csproj",
         "packagesPath": "C:\\Users\\UMWAMI\\.nuget\\packages\\",
-        "outputPath": "d:\\Cloning\\alu-csharp\\csharp-generics\\0-queue\\obj\\",
+        "outputPath": "d:\\Cloning\\alu-csharp\\csharp-generics\\1-enqueued\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\UMWAMI\\AppData\\Roaming\\NuGet\\NuGet.Config",

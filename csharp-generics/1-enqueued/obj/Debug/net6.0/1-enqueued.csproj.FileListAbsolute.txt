@@ -1,0 +1,17 @@
+D:\Cloning\alu-csharp\csharp-generics\1-enqueued\bin\Debug\net6.0\1-enqueued.exe
+D:\Cloning\alu-csharp\csharp-generics\1-enqueued\bin\Debug\net6.0\1-enqueued.deps.json
+D:\Cloning\alu-csharp\csharp-generics\1-enqueued\bin\Debug\net6.0\1-enqueued.runtimeconfig.json
+D:\Cloning\alu-csharp\csharp-generics\1-enqueued\bin\Debug\net6.0\1-enqueued.dll
+D:\Cloning\alu-csharp\csharp-generics\1-enqueued\bin\Debug\net6.0\1-enqueued.pdb
+D:\Cloning\alu-csharp\csharp-generics\1-enqueued\bin\Debug\net6.0\1-enqueued.xml
+D:\Cloning\alu-csharp\csharp-generics\1-enqueued\obj\Debug\net6.0\1-enqueued.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cloning\alu-csharp\csharp-generics\1-enqueued\obj\Debug\net6.0\1-enqueued.AssemblyInfoInputs.cache
+D:\Cloning\alu-csharp\csharp-generics\1-enqueued\obj\Debug\net6.0\1-enqueued.AssemblyInfo.cs
+D:\Cloning\alu-csharp\csharp-generics\1-enqueued\obj\Debug\net6.0\1-enqueued.csproj.CoreCompileInputs.cache
+D:\Cloning\alu-csharp\csharp-generics\1-enqueued\obj\Debug\net6.0\1-enqueued.sourcelink.json
+D:\Cloning\alu-csharp\csharp-generics\1-enqueued\obj\Debug\net6.0\1-enqueued.dll
+D:\Cloning\alu-csharp\csharp-generics\1-enqueued\obj\Debug\net6.0\refint\1-enqueued.dll
+D:\Cloning\alu-csharp\csharp-generics\1-enqueued\obj\Debug\net6.0\1-enqueued.xml
+D:\Cloning\alu-csharp\csharp-generics\1-enqueued\obj\Debug\net6.0\1-enqueued.pdb
+D:\Cloning\alu-csharp\csharp-generics\1-enqueued\obj\Debug\net6.0\1-enqueued.genruntimeconfig.cache
+D:\Cloning\alu-csharp\csharp-generics\1-enqueued\obj\Debug\net6.0\ref\1-enqueued.dll
