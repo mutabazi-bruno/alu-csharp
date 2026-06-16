@@ -27,9 +27,9 @@ class Program
     static void Main(string[] args)
     {
         Queue<string> myStrQ = new Queue<string>();
-        Queue<object> myObjQ = new Queue<object>();
+        Queue<double> myDoubleQ = new Queue<double>();
 
         Console.WriteLine($"{nameof(myStrQ)} Queue Type: " + myStrQ.CheckType());
-        Console.WriteLine($"{nameof(myObjQ)} Queue Type: " + myObjQ.CheckType());
+        Console.WriteLine($"{nameof(myDoubleQ)} Queue Type: " + myDoubleQ.CheckType());
     }
 }

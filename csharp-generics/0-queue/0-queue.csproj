@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <RootNamespace>queue</RootNamespace>
-    <AssemblyName>queue</AssemblyName>
+    <AssemblyName>0-queue</AssemblyName>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
   </PropertyGroup>
 

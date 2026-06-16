@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "d:\\Cloning\\alu-csharp\\csharp-generics\\0-queue\\0-queue.csproj",
-        "projectName": "queue",
+        "projectName": "0-queue",
         "projectPath": "d:\\Cloning\\alu-csharp\\csharp-generics\\0-queue\\0-queue.csproj",
         "packagesPath": "C:\\Users\\UMWAMI\\.nuget\\packages\\",
         "outputPath": "d:\\Cloning\\alu-csharp\\csharp-generics\\0-queue\\obj\\",
