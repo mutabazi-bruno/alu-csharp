@@ -7,47 +7,12 @@ using System;
 class Queue<T>
 {
     /// <summary>
-    /// Gets the name of the type T as it would be written in C# code.
+    /// Gets the name of the type T.
     /// </summary>
-    /// <returns>The type name as a string (e.g., "string", "double", "object").</returns>
+    /// <returns>The full type name as a string (e.g., "System.String", "System.Double").</returns>
     public string CheckType()
     {
-        Type type = typeof(T);
-        
-        // Map common types to their C# keyword names
-        if (type == typeof(string))
-            return "string";
-        if (type == typeof(int))
-            return "int";
-        if (type == typeof(double))
-            return "double";
-        if (type == typeof(float))
-            return "float";
-        if (type == typeof(long))
-            return "long";
-        if (type == typeof(short))
-            return "short";
-        if (type == typeof(byte))
-            return "byte";
-        if (type == typeof(sbyte))
-            return "sbyte";
-        if (type == typeof(uint))
-            return "uint";
-        if (type == typeof(ulong))
-            return "ulong";
-        if (type == typeof(ushort))
-            return "ushort";
-        if (type == typeof(bool))
-            return "bool";
-        if (type == typeof(char))
-            return "char";
-        if (type == typeof(decimal))
-            return "decimal";
-        if (type == typeof(object))
-            return "object";
-        
-        // For other types, return the full name
-        return type.FullName;
+        return typeof(T).FullName;
     }
 }
 
