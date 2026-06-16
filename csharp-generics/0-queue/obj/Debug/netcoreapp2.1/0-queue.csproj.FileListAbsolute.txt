@@ -1,16 +1,6 @@
-D:\Cloning\alu-csharp\csharp-generics\0-queue\bin\Debug\netcoreapp2.1\0-queue.deps.json
-D:\Cloning\alu-csharp\csharp-generics\0-queue\bin\Debug\netcoreapp2.1\0-queue.runtimeconfig.json
-D:\Cloning\alu-csharp\csharp-generics\0-queue\bin\Debug\netcoreapp2.1\0-queue.runtimeconfig.dev.json
-D:\Cloning\alu-csharp\csharp-generics\0-queue\bin\Debug\netcoreapp2.1\0-queue.dll
-D:\Cloning\alu-csharp\csharp-generics\0-queue\bin\Debug\netcoreapp2.1\0-queue.pdb
-D:\Cloning\alu-csharp\csharp-generics\0-queue\bin\Debug\netcoreapp2.1\0-queue.xml
-D:\Cloning\alu-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.csproj.AssemblyReference.cache
-D:\Cloning\alu-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.GeneratedMSBuildEditorConfig.editorconfig
-D:\Cloning\alu-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.AssemblyInfoInputs.cache
-D:\Cloning\alu-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.AssemblyInfo.cs
-D:\Cloning\alu-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.csproj.CoreCompileInputs.cache
-D:\Cloning\alu-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.sourcelink.json
-D:\Cloning\alu-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.dll
-D:\Cloning\alu-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.xml
-D:\Cloning\alu-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.pdb
-D:\Cloning\alu-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.sourcelink.json
