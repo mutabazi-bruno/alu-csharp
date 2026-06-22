@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Cloning\\alu-csharp\\csharp-interfaces\\3-decorations\\3-decorations.csproj",
-      "projectName": "3-decorations",
-      "projectPath": "d:\\Cloning\\alu-csharp\\csharp-interfaces\\3-decorations\\3-decorations.csproj",
+      "projectUniqueName": "d:\\Cloning\\alu-csharp\\csharp-interfaces\\4-keys\\4-keys.csproj",
+      "projectName": "4-keys",
+      "projectPath": "d:\\Cloning\\alu-csharp\\csharp-interfaces\\4-keys\\4-keys.csproj",
       "packagesPath": "C:\\Users\\UMWAMI\\.nuget\\packages\\",
-      "outputPath": "d:\\Cloning\\alu-csharp\\csharp-interfaces\\3-decorations\\obj\\",
+      "outputPath": "d:\\Cloning\\alu-csharp\\csharp-interfaces\\4-keys\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\UMWAMI\\AppData\\Roaming\\NuGet\\NuGet.Config",
